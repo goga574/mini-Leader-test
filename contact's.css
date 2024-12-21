@@ -1,0 +1,28 @@
+.h3{
+    text-align: center;
+    border: solid;
+    color: greenyellow;
+    border-color: goldenrod;
+    border-radius: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    text-shadow:20px 0px 20px;
+}
+
+.l1{
+    list-style-type: none;
+    text-align: center;
+    
+}
+
+.l2{
+    margin-top: -20px;
+    margin-left: 400px;
+    list-style-type: none;
+    text-align: left;
+}
+.l3{
+    margin-right:400px;
+    text-align: right;
+    list-style-type: none;
+}
